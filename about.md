@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+#### I am a recent college graduate (bachelor of Computer Science) from University Of Waterloo.
+#### While working on academic and extracurricular projects, I developed proven teamwork, fast learning and problem-solving skills, which I hope to leverage into the developer role at any company.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+#### I also learned swift 3 myself and is building an ios app on my own. If you are a recruiter please contact me through the email below. OR, if you just want to contribute to my current project, please [tap here](https://github.com/DavidTai1/Calculator)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
