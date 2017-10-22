@@ -6,7 +6,8 @@ categories: self
 ---
 
 
-## **Keran (David) Tai**					
+## **Keran (David) Tai**
+![grad_photo](./grad_photo.jpg)
 
 (519) 721-5435                   
 taikeran@gmail.com                       
