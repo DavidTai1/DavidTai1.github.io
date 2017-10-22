@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Keran Tai Resume"
+title:  "Resume"
 date:   2017-10-18 19:44:08 -0400
 categories: self
 ---
 
 
-## **Keran (David) Tai**
+# _**Keran (David) Tai**_
 ![grad_photo](https://raw.githubusercontent.com/DavidTai1/DavidTai1.github.io/master/_posts/grad_photo.jpg)
 
 (519) 721-5435                   
@@ -14,7 +14,7 @@ taikeran@gmail.com
 50 mooregate cres, Kitchener, ON
 
 
-## **SUMMARY OF QUALIFICATIONS**
+### **SUMMARY OF QUALIFICATIONS**
 
 * Thorough knowledge in Software Development Life Cycle (SDLC) and testing algorithms/methodologies
 * Comprehensive programming experiences in a variety of languages gained from computer science projects
@@ -23,7 +23,7 @@ taikeran@gmail.com
 
 
 
-## **TECHNICAL PROFICIENCIES**
+### **TECHNICAL PROFICIENCIES**
 
 * Programming Languages: C/C++, Java, Python, Python, Shell Script, SQL, Swift, HTML5
 * IDE/Development Tools: IntelliJ, Android Studio, PyCharm, Eclipse
@@ -32,7 +32,7 @@ taikeran@gmail.com
 
 
 
-## **EDUCATION**
+### **EDUCATION**
 
 Bachelor of Computer Science, University of Waterloo, Waterloo, ON, Canada               
 Sept 2013 – June 2017
@@ -42,7 +42,7 @@ Relevant Courses: _Algorithm, Data Structure, Database, Object Orientated Progra
 
 
 
-## **RELEVANT PROJECTS**
+### **RELEVANT PROJECTS**
 
 #### **Java Android Studio Game, Software Design and Architecture, University of Waterloo**
 April 2016
