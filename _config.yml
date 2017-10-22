@@ -15,11 +15,15 @@
 # in the templates via {{ site.myvariable }}.
 title: Keran Tai
 email: taikeran@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Active looking for jobs :) OR
-  If you need a personal trainer (CIF/Webber Goodlife) 
-  you can also contact me throught my email. I have been workout for over 2 years and 
-  making good progress with strong knowledge on weight losing/body building. Rate: $30/h
+description: |+ 
+ Active looking for jobs :) 
+ Front/End/Full stack/Mobile/Machaine Learning/Big Data
+ OR 
+ If you need a personal trainer (CIF/Webber Goodlife) 
+ You can also contact me throught my email. I have been workout for over 2 years and 
+ making good progress with strong knowledge on weight losing/body building. Rate: $30/h 
+ BP: 225*2/ DL:205*6/ Squat:225*4 
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.taikeran.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: davidtai111
