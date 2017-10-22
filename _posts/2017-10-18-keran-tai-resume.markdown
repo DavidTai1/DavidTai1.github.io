@@ -7,7 +7,7 @@ categories: self
 
 
 ## **Keran (David) Tai**
-![grad_photo](https://github.com/DavidTai1/DavidTai1.github.io/blob/master/_posts/grad_photo.jpg)
+![grad_photo](https://raw.githubusercontent.com/DavidTai1/DavidTai1.github.io/master/_posts/grad_photo.jpg)
 
 (519) 721-5435                   
 taikeran@gmail.com                       
