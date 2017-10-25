@@ -9,7 +9,8 @@ categories: tensorflow
 
 Learnning tensorflow model from [Youtube](https://www.youtube.com/watch?v=k3O0VCHxw10&list=PLjSwXXbVlK6IHzhLOMpwHHLjYmINRstrk&index=3)
 
-If you are interested in deep learning, you can join me [GitHub](https://github.com/DavidTai1/TF)
+If you are interested in deep learning, you can join me 
+[GitHub](https://github.com/DavidTai1/TF) I will start building my own model soon
 
 
 
