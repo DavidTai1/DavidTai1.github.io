@@ -58,8 +58,9 @@ Learnning ml with tensorflow [GitHub](https://github.com/DavidTai1/TF)
 
 References:
 
-[Install](https://www.tensorflow.org/install/install_mac)
-[Tensorboard](https://github.com/dmlc/tensorboard/blob/master/docs/tutorial/understanding-vanish-gradient.ipynb)
+[Install Tensorflow](https://www.tensorflow.org/install/install_mac)
+
+[Install Tensorboard](https://github.com/dmlc/tensorboard/blob/master/docs/tutorial/understanding-vanish-gradient.ipynb)
 
 Youtube:
 [ML1](https://www.youtube.com/watch?v=lAaCeiqE6CE&list=PLXO45tsB95cKI5AIlf5TxxFPzb-0zeVZ8)
