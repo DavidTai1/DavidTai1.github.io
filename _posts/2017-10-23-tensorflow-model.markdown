@@ -11,7 +11,7 @@ Learnning ml with tensorflow [GitHub](https://github.com/DavidTai1/TF)
 # **Updates:** 
 
 **Second approach 4 layers**
-
+	[model](https://github.com/DavidTai1/tensorflow/tree/master/model)
 	AdagradOptimizer rate:0.2
 	#: 0 accuracy: 0.9463
 	#: 1 accuracy: 0.9607
