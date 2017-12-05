@@ -6,45 +6,122 @@ categories: study
 ---
 
 **SELECT:** 
+
 	SELECT * 
 	FROM TABLE;
 
 **DISTINCT:** 
+
 	SELECT DISTINCT * 
 	FROM TABLE;
 
 **WHERE:** 
+
 	SELECT *
 	FROM TABLE
 	WHERE CONDITION;
 
 **AND, OR NOT**
+
 	:)
 
 **ORDER BY:**
+
 	SELECT *
 	FROM TABLE
 	WHERE CONDITION
 	ORDER BY TABLE.COL ASC|DESC;
 
 **INSERT INTO:**
+
 	INSERT INTO TABLE_NAME(COL1,COL2)
 	VALUES(V1,V2)
 	------------- OR
 	INSERT INTO TABLE_NAME(V1,V2)
 
 **UPDATE:**
+
 	UPDATE TABLE
 	SET COL1 = V1,COL2 = V2
 	WHERE CONDITION;
 
 **DELETE:**
+
 	DELETE FROM TABLE_NAME
 	WHERE CONDITION
 
 **MIN/MAX:**
+
 	SELECT MIN/MAX(COL1)
 	FROM TABLE;
+
+**COUNT/AVG/SUM**
+
+	SELECT COUNT(COL)
+	FROM TABLE;
+
+	SELECT AVG(COL)
+	FROM TABLE;
+
+	SELECT SUM(COL)
+	FROM TABLE;
+
+**LIKE**
+	
+	SELECT *
+	FROM TALBE
+	WHERE COL LIKE "%_"; % match 0-n/ _ match exactly 1
+
+**IN**
+	
+	SELECT *
+	FROM TALBE
+	WHERE COL IN (V1,V2,...)
+
+# **JOINS**
+
+	**INNER JOIN** Returns A & B
+	SELECT *
+	FROM TABLE A
+	INNER JOIN TABLE B
+	ON CONDITION;
+
+	**FULL JOIN** Returns A OR B
+	SELECT *
+	FROM TABLE A
+	FULL JOIN TABLE B
+	ON CONDITION;
+
+	**LEFT JOIN** Returns A + A & B
+	SELECT *
+	FROM TABLE A
+	LEFT JOIN TABLE B
+	ON CONDITION;
+
+	**RIGHT JOIN** Returns B + A & B
+	SELECT *
+	FROM TABLE A
+	RIGHT JOIN TABLE B
+	ON CONDITION;
+
+**DIFFERENCE BETWEEN JOINS & UNION**
+	
+	JOINS can have different cols, when join need condition, empty
+	data is NULL.
+	UNION must have same cols, no need condtion, just combine 
+	results from Table A followed by Table B with the col name
+	definded in A.
+
+**UNION**
+	
+	SELECT COL1,COL2
+	FROM TABLE A
+	UNION
+	SELECT COL1,COL2
+	FROM TABLE B;
+
+
+
 
 
 
