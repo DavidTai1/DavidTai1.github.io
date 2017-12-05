@@ -2,7 +2,7 @@
 layout: post
 title:  "Resume"
 date:   2017-10-18 19:44:08 -0400
-categories: self
+categories: resume
 ---
 
 

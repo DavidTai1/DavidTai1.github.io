@@ -2,7 +2,7 @@
 layout: post
 title:  "Tensorflow MNIST"
 date:   2017-10-23 17:24:08 -0400
-categories: tensorflow
+categories: study
 ---
 
 
