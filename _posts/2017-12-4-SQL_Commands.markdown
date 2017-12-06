@@ -52,8 +52,14 @@ categories: study
 
 **MIN/MAX:**
 
-	SELECT MIN/MAX(COL1)
+	SELECT (COL1,COL2) MIN/MAX(COL1)
 	FROM TABLE;
+	(GROUP BY COL1 COL2 COL3)
+	**Group by need to contain all (or more) cols in select, Same rules applies to all**
+	**aggregate functions (MIN, MAX, COUNT, AVG, SUM)**
+	**In oracle sql, if col1,col2,aggfun_return is what we want, but we also need col3 adding**
+	**col3 to group by/select might result in unique(col1,col2,col3,aggfun_return) but**
+	**duplicate(col1,col2,aggfun_return)**
 
 **COUNT/AVG/SUM**
 
@@ -119,6 +125,7 @@ categories: study
 	UNION
 	SELECT COL1,COL2
 	FROM TABLE B;
+
 
 
 
