@@ -27,7 +27,7 @@ taikeran@gmail.com
 
 * Programming Languages: C/C++, Java, Python, Python, Shell Script, SQL, Swift, HTML5
 * IDE/Development Tools: IntelliJ, Android Studio, PyCharm, Eclipse
-* Operating Systems: Windows, Unix/Linux
+* Operating Systems: Windows, Unix/Linux, Mac OS
 
 
 
@@ -54,8 +54,8 @@ April 2016
 #### **Breakout Game, User Interfaces, University of Waterloo**                           
 April 2016
 
-* Constructed a 2-d Pinball game using a combination of Java Swing and Java Android Studio 
-* Implemented features including scroll bar, speed adjustment, score keeping dashboard, timeline, etc.
+* Constructed a 2-D Pinball game using Java Swing
+* Implemented features including scroll bar, speed adjustment, score keeping dashboard, level of difficulty etc.
 * Established solid understanding in user interface design, event abstraction, and UI architectures
 
 #### **Tetris, Object-Oriented Software Development, University of Waterloo**
